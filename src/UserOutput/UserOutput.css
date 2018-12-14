@@ -1,0 +1,21 @@
+.User {
+    width: 60%;
+    border: 1px solid #eee;
+    box-shadow: 2px 2px 2px #ccc;
+    border-radius: 10px;
+    margin: 10px auto;
+    text-align: center;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+}
+
+.UserBottom {
+    background-color: white;
+    color: black;
+    height: 50%;
+    text-align: center;
+    padding: 5px;
+    margin: 0 0 10px 0;
+    font-family: Helvetica;
+}
